@@ -77,4 +77,4 @@ Use Electron to display Party Parrots on steroids on MacBooks Pro Touch Bar
 * [TouchBarDisabler](https://github.com/HiKay/TouchBarDisabler) - TouchBarDisabler allows users to manually turn off the Touch Bar on 2016 MacBook Pro devices. You will be guided to turn off System Integrity Protection before using the app.
 * [TouchTest](https://github.com/HeadBanging/TouchTest) - NSDocument with TouchBar support
 * [touchbar](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
-
+* [WriteBar](//writebar.js.org) - Distraction-free text editor, that displays focus text line right over the keyboard
