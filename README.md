@@ -78,3 +78,4 @@ Use Electron to display Party Parrots on steroids on MacBooks Pro Touch Bar
 * [TouchTest](https://github.com/HeadBanging/TouchTest) - NSDocument with TouchBar support
 * [touchbar](https://github.com/loretoparisi/touchbar) - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples
 * [WriteBar](//writebar.js.org) - Distraction-free text editor, that displays focus text line right over the keyboard
+* [SeKey](https://github.com/ntrippar/sekey) - Use Secure Enclave/touchID on touchbar as SSH key store.
